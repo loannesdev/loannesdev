@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![iamge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-___
-
+##
+<img src="https://komarev.com/ghpvc/?username=loannesdev" />
