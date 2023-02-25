@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loannesdev&langs_count=10&theme=black&bg_color=00000000&border_color=6565652e&layout=compact&custom_title=Most&nbsp;used&nbsp;languages)](https://github.com/loannesdev/github-readme-stats)
 -->
 
-**<h1 align="center">Here you can see a bit about me</h1>**
+<div align="center">
+  <a href="https://www.linkedin.com/in/sebastian-c-130476121">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</section>
 
-<br>
+<br><br>
 
 <section>
   <img alt="My statistics" src="https://github-readme-stats.vercel.app/api?username=loannesdev&count_private=true&show_icons=true&theme=black&bg_color=00000000&border_color=6565652e&custom_title=My&nbsp;statistics" />
@@ -29,7 +33,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### These are some of the my main tech what i know *(if you wanna see more about what i know visit my [portfolio](https://loannesdev.netlify.app/#knowledge))*:
+#### These are some of the my main tech what i know *(if you wanna see more about what i know visit my [portfolio](https://loannesdev.netlify.app/#knowledge))*:
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,4 +46,6 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![iamge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+___
 
