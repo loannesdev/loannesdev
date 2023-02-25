@@ -43,29 +43,3 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![iamge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
-
-### And some projects
-
-<section>
-  <a href="https://github.com/loannesdev/media-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=loannesdev&repo=media-platform&theme=black&bg_color=00000000&border_color=6565652e" />
-  </a>
-  <a href="https://github.com/loannesdev/voice-translator">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=loannesdev&repo=voice-translator&theme=black&bg_color=00000000&border_color=6565652e" />
-  </a>
-  <a href="https://github.com/loannesdev/practice">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=loannesdev&repo=practice&theme=black&bg_color=00000000&border_color=6565652e" />
-  </a>
-  <a href="https://github.com/loannesdev/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=loannesdev&repo=portfolio&theme=black&bg_color=00000000&border_color=6565652e" />
-  </a>
-  <a href="https://github.com/loannesdev/adventJS-2021">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=loannesdev&repo=adventJS-2021&theme=black&bg_color=00000000&border_color=6565652e" />
-  </a>
-
-<br>
-
-  <div align="center"><a href="https://github.com/loannesdev?tab=repositories">🔎 See more</a></div>
-</section>
-
