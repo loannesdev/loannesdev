@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <br>
 
-#### These are some of the my main tech what i know *(if you wanna see more about what i know visit my [portfolio](https://loannesdev.netlify.app/#knowledge))*:
+#### Estos son algunas tecnologias que conozco *(si quieres ver más sobre las cosas que he aprendido hechale un vistaso a mi [portafolio](https://loannesdev.netlify.app/#knowledge))*:
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
