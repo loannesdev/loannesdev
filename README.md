@@ -26,6 +26,7 @@
 </section>
 
 #### *<div align="center">Si quieres ver más visita mi <a href="https://loannesdev.netlify.app/#knowledge">portafolio</a></div>*
+
 ---
 
 <br>
