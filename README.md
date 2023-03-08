@@ -17,14 +17,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loannesdev&langs_count=10&theme=black&bg_color=00000000&border_color=6565652e&layout=compact&custom_title=Most&nbsp;used&nbsp;languages)](https://github.com/loannesdev/github-readme-stats)
 -->
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sebastian-c-130476121">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</section>
-
-<br><br>
-
 <section>
   <img alt="My statistics" src="https://github-readme-stats.vercel.app/api?username=loannesdev&count_private=true&show_icons=true&theme=black&bg_color=00000000&border_color=6565652e&custom_title=My&nbsp;statistics" />
 
