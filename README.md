@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </section>
 
-#### *<div align="center">Si quieres ver más visita mi <a href="https://loannesdev.netlify.app/#knowledge">portafolio</a></div>*
+<em align="center">Si quieres ver más visita mi <a href="https://loannesdev.netlify.app/#knowledge">portafolio</a></em>
 
 ---
 
