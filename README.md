@@ -23,9 +23,9 @@
   <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE" />
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</section>
 
-<em align="center">Y si quieres ver más sobre lo que sé visita mi <a href="https://loannesdev.netlify.app/#knowledge">portafolio</a></em>
+  <em align="center">Y si quieres ver más sobre lo que sé visita mi <a href="https://loannesdev.netlify.app/#knowledge">portafolio</a></em>
+</section>
 
 #
 
